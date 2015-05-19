@@ -1,0 +1,33 @@
+public static void main(String args[])
+
+{
+
+int a, b, c;
+
+double d, e;
+
+a = b = 5;
+
+c = 6;
+
+if ( a > b)
+
+{
+
+c = a - b;
+
+e = d - 29.0;
+
+}
+
+else
+
+{
+
+d = eh + 76.0;
+
+b = a + c;
+
+}
+
+}
